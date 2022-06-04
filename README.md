@@ -1,3 +1,5 @@
 ### Hi there 👋
 
-Hi there, I'm Abdullah. I really enjoy learnin language and frameworks. I'm mostly interested in web development. I reinforce my software skills by doing research and application to improve myself
+Hello, I'm Abdullah. I am interested in web development. I really enjoy learning about web technologies like React. I reinforce my software skills by doing research and application to improve myself.
+
+Reach out to me [linkedin.com/in/abdullahsag](https://www.linkedin.com/in/abdullah-sag)
